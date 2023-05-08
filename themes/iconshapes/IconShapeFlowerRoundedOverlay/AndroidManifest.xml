@@ -14,7 +14,8 @@
   ~ limitations under the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.android.theme.icon.flowerrounded"
+          package="com.android.theme.icon.meow"
+    android:allowBackup="false"
           android:versionCode="1"
           android:versionName="1.0">
     <overlay
