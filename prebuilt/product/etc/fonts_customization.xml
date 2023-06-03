@@ -45,6 +45,75 @@
         <font weight="300" style="normal">VG5000-Regular.ttf</font>
     </family>
 
+	<family customizationType="new-named-family" name="harmoniasans">
+	<font weight="400" style="normal">HarmoniaSansCondensed.ttf</font>
+	<font weight="400" style="italic">HarmoniaSansCondensed.ttf</font>
+	<font weight="500" style="normal">HarmoniaSansCondensed.ttf</font>
+	<font weight="500" style="italic">HarmoniaSansCondensed.ttf</font>
+	<font weight="700" style="normal">HarmoniaSansCondensed.ttf</font>
+	<font weight="700" style="italic">HarmoniaSansCondensed.ttf</font>
+	</family>
+	<alias name="harmoniasans-regular" to="harmoniasans" weight="400" />
+	<alias name="harmoniasans-medium" to="harmoniasans" weight="500" />
+	<alias name="harmoniasans-bold" to="harmoniasans" weight="700" />
+
+	<family customizationType="new-named-family" name="iosevka">
+	<font weight="100" style="normal">iosevka-thin.ttf</font>
+	<font weight="100" style="italic">iosevka-thinitalic.ttf</font>
+	<font weight="300" style="normal">iosevka-light.ttf</font>
+	<font weight="300" style="italic">iosevka-lightitalic.ttf</font>
+	<font weight="400" style="normal">iosevka-regular.ttf</font>
+	<font weight="400" style="italic">iosevka-italic.ttf</font>
+	<font weight="500" style="normal">iosevka-medium.ttf</font>
+	<font weight="500" style="italic">iosevka-mediumitalic.ttf</font>
+	<font weight="600" style="normal">iosevka-bold.ttf</font>
+	<font weight="600" style="italic">iosevka-bolditalic.ttf</font>
+	<font weight="700" style="normal">iosevka-extrabold.ttf</font>
+	<font weight="700" style="italic">iosevka-extrabolditalic.ttf</font>
+	</family>
+	<alias name="iosevka-thin" to="iosevka" weight="100" />
+        <alias name="iosevka-light" to="iosevka" weight="300" />
+        <alias name="iosevka-regular" to="iosevka" weight="400" />
+	<alias name="iosevka-medium" to="iosevka" weight="500" />
+	<alias name="iosevka-bold" to="iosevka" weight="600" />
+	<alias name="iosevka-extrabold" to="iosevka" weight="700" />
+
+	<family customizationType="new-named-family" name="monofonto">
+	<font weight="400" style="normal">Monofonto.ttf</font>
+	<font weight="400" style="italic">Monofonto.ttf</font>
+	<font weight="500" style="normal">Monofonto.ttf</font>
+	<font weight="500" style="italic">Monofonto.ttf</font>
+	<font weight="700" style="normal">Monofonto.ttf</font>
+	<font weight="700" style="italic">Monofonto.ttf</font>
+	</family>
+	<alias name="monofonto-regular" to="monofonto" weight="400" />
+	<alias name="monofonto-medium" to="monofonto" weight="500" />
+	<alias name="monofonto-bold" to="monofonto" weight="700" />
+
+	 <family customizationType="new-named-family" name="urwgothicbook">
+	<font weight="400" style="normal">texgyreadventor-regular.ttf</font>
+	<font weight="400" style="italic">texgyreadventor-italic.ttf</font>
+	<font weight="500" style="normal">texgyreadventor-bold.ttf</font>
+	<font weight="500" style="italic">texgyreadventor-bolditalic.ttf</font>
+	<font weight="700" style="normal">texgyreadventor-bold.ttf</font>
+	<font weight="700" style="italic">texgyreadventor-bolditalic.ttf</font>
+	</family>
+	<alias name="urwgothicbook-regular" to="urwgothicbook" weight="400" />
+	<alias name="urwgothicbook-medium" to="urwgothicbook" weight="500" />
+	<alias name="urwgothicbook-bold" to="urwgothicbook" weight="700" />
+
+	<family customizationType="new-named-family" name="twcenmt">
+	<font weight="400" style="normal">TwCenMTCondensed.ttf</font>
+	<font weight="400" style="italic">TwCenMTCondensed.ttf</font>
+	<font weight="500" style="normal">TwCenMTCondensed.ttf</font>
+	<font weight="500" style="italic">TwCenMTCondensed.ttf</font>
+	<font weight="700" style="normal">TwCenMTCondensed.ttf</font>
+	<font weight="700" style="italic">TwCenMTCondensed.ttf</font>
+	</family>
+	<alias name="twcenmt-regular" to="twcenmt" weight="400" />
+	<alias name="twcenmt-medium" to="twcenmt" weight="500" />
+	<alias name="twcenmt-bold" to="twcenmt" weight="700" />
+	
     <!-- Accuratist -->
     <family customizationType="new-named-family" name="accuratist">
         <font weight="400" style="normal">Accuratist.ttf</font>

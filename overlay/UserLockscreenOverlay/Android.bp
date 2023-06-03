@@ -1,0 +1,10 @@
+android_app_import {
+	name: "UserLockscreenOverlay",
+	owner: "UserLockscreen",
+	apk: "UserLockscreenOverlay.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
