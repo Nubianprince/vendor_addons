@@ -1,0 +1,7 @@
+android_app_import {
+    name: "SoulBrowser",
+    apk: "SoulBrowser.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}

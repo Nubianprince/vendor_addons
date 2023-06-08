@@ -1,0 +1,7 @@
+android_app_import {
+    name: "MeeUI",
+    apk: "MeeUI.apk",
+    presigned: true,
+    privileged: true,
+    system_ext_specific: true,
+}
