@@ -376,6 +376,16 @@ PRODUCT_PACKAGES += \
 	SharpWiFiOverlay \
 	NothingDotWiFiOverlay
 
+# Apps
+PRODUCT_PACKAGES += \
+    AquaMail \
+    FlatSquircle \
+    MeeUI \
+    OneUI \
+    SmartLauncher \
+    SoulBrowser
+
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
@@ -398,7 +408,9 @@ PRODUCT_PACKAGES += \
     QSNeumorph \
     QSReflected \
     QSSurround \
-    QSThin
+    QSThin \
+    QSSquircle \
+    QSLeafy
 
 # Brightness slider styles
 PRODUCT_PACKAGES += \
@@ -419,6 +431,11 @@ PRODUCT_PACKAGES += \
     BrightnessSliderLineOverlay \
     BrightnessSliderLightyOverlay
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI \
+    ReevaluateSysUIOverlay
+    
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
