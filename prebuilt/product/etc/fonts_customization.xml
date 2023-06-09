@@ -33,18 +33,6 @@
 	<alias name="iosevka-bold" to="iosevka" weight="600" />
 	<alias name="iosevka-extrabold" to="iosevka" weight="700" />
 
-	<family customizationType="new-named-family" name="monofonto">
-	<font weight="400" style="normal">Monofonto.ttf</font>
-	<font weight="400" style="italic">Monofonto.ttf</font>
-	<font weight="500" style="normal">Monofonto.ttf</font>
-	<font weight="500" style="italic">Monofonto.ttf</font>
-	<font weight="700" style="normal">Monofonto.ttf</font>
-	<font weight="700" style="italic">Monofonto.ttf</font>
-	</family>
-	<alias name="monofonto-regular" to="monofonto" weight="400" />
-	<alias name="monofonto-medium" to="monofonto" weight="500" />
-	<alias name="monofonto-bold" to="monofonto" weight="700" />
-
 	 <family customizationType="new-named-family" name="urwgothicbook">
 	<font weight="400" style="normal">texgyreadventor-regular.ttf</font>
 	<font weight="400" style="italic">texgyreadventor-italic.ttf</font>
